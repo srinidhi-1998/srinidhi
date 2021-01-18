@@ -1,0 +1,10 @@
+D:\E Drive\Project2018-2019\MilkParlor\MilkParlorSystem\MilkParlorSystem\bin\MilkParlorSystem.dll
+D:\E Drive\Project2018-2019\MilkParlor\MilkParlorSystem\MilkParlorSystem\bin\MilkParlorSystem.pdb
+D:\E Drive\Project2018-2019\MilkParlor\MilkParlorSystem\MilkParlorSystem\obj\Debug\MilkParlorSystem.dll
+D:\E Drive\Project2018-2019\MilkParlor\MilkParlorSystem\MilkParlorSystem\obj\Debug\MilkParlorSystem.pdb
+D:\E Drive\Project2018-2019\MilkParlor\MilkParlorSystem\MilkParlorSystem\obj\Debug\MilkParlorSystem.csprojResolveAssemblyReference.cache
+F:\MilkParlorSystem\MilkParlorSystem\bin\MilkParlorSystem.dll
+F:\MilkParlorSystem\MilkParlorSystem\bin\MilkParlorSystem.pdb
+F:\MilkParlorSystem\MilkParlorSystem\obj\Debug\MilkParlorSystem.csprojResolveAssemblyReference.cache
+F:\MilkParlorSystem\MilkParlorSystem\obj\Debug\MilkParlorSystem.dll
+F:\MilkParlorSystem\MilkParlorSystem\obj\Debug\MilkParlorSystem.pdb
